@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+    height: 130px;
+    background-color: blueviolet;
+    align-items: center;
+    
+}
+
+.titulo1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    color: rgb(245, 218, 218);    
+}
+
+.parrafo{
+font-size: 2rem;
+background-color: aquamarine;
+}
