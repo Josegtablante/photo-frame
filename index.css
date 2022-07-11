@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: aquamarine;
+}
+
 .titulo{
     height: 130px;
     background-color: blueviolet;
@@ -19,5 +23,5 @@
 
 .parrafo{
 font-size: 2rem;
-background-color: aquamarine;
+/* background-color: aquamarine; */
 }
